@@ -1,0 +1,1 @@
+{"name": "myTracker", "short_name": "myTracker", "start_url": "./index.html", "scope": "./", "display": "standalone", "background_color": "#FDDFEA", "theme_color": "#FDDFEA", "icons": [{"src": "icon-192.jpg", "sizes": "192x192", "type": "image/jpeg", "purpose": "any maskable"}, {"src": "icon-512.jpg", "sizes": "512x512", "type": "image/jpeg", "purpose": "any maskable"}]}
